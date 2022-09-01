@@ -9,3 +9,4 @@ changes the group owner to school
 script that creates a directory called my_dir
 script that changes the group owner to school
 change owner
+101-symbolic_link_permissions
