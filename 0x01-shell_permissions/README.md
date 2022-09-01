@@ -5,3 +5,4 @@ cript that sets the permission to the file
 script that sets the mode of the file
 script that sets the mode of the file hello the same as olleh’s mode
 execute permission to all subdirectories of the current directory
+changes the group owner to school
